@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "programs/*"
+]
+
+exclude = [
+    "app/cli"
+]

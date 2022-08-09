@@ -1,0 +1,11 @@
+{
+    "storePubkey": "GbDZNLaJqD5mo8fjxVdG3we1A3D3gXNg8BNBTrUCdacF",
+    "storeBN": "e7a3403810d6fbf763bd394519dc0acd61f5c4214aefed044fc6869138d8fe10",
+    "walletBN": "5c758122c37b8f1ea6a7b46818334fc7c058fba746f072bfae02fbac73d03b50",
+    "vaultPubkey": "9tKKMok1Qhmjo4SPxW4gPPEPy2FB75pTGVSEJSzf7Xvc",
+    "mintToken": {"nft_account":"6jFVm4R5CtFLtDtxK8DmGmJGpwdYh4f3obP5PPpwvf3Q","nft_publickey":"6ddf6e1d765a193d9cbe146ceeb79ac1cb485ed5f5b37913a8cf5857eff00a9","mint_secret_key":"23,141,225,93,10,173,238,139,225,145,214,144,109,90,28,161,250,215,233,114,37,75,247,168,148,53,96,87,19,229,96,125,183,83,179,146,27,194,79,168,156,139,12,137,7,190,122,198,53,54,126,253,124,8,174,160,160,206,9,166,49,50,33,1","account":"4CwzzZsfDJoiECgrYZtxtTi4zU4SQTiKnQqS4UVbfncNNcxV3unwLq5DX1FypzEiUnVXNBaZ5MgZ6CG3uuD36a5P","mint_key":"DLddp3ndMhdrT4CKqh9h5eLkUQSBqHgBSKBAjrUjofSG","user":"7DvRvZGR19SUrsYnA47aeBTKMCUkdij2jA9uk6aXn6L7","metadata_address":"CUyfngMnsPLNjeJbJAg4U4ywgdmYRqG6LmhFZNDweifk","master_edition":"8a1HjxizkkbQ5dsjqQbqFqZeg3ZaLscLfVsztjWn9nWU","tx_signature":"5Lyymw5zTcyv6y5QbsC7GPAz8oqwVzD6hvMLdVzrnFtgsN4cFhy5mufvsGQrENpbNML7u73aPEGVbRG2b8uyZoWx"},
+    "ownerBN": "5c758122c37b8f1ea6a7b46818334fc7c058fba746f072bfae02fbac73d03b50",
+    "resourceBN": "b753b3921bc24fa89c8b0c8907be7ac635367efd7c08aea0a0ce09a631322101",
+    "vaultBN": "8402d3c5fcc037d5b375479a0e3d82884b08c9ee0a8bdc51de43ff2c47d2820d",
+    "vaultOwnerBN": "6643f6496df57dd46556e859106e89cf93fe37ff3cc80b2905b8decb5b6df78a"
+}

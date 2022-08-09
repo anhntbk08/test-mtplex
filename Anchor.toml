@@ -1,0 +1,14 @@
+[features]
+seeds = false
+[programs.devnet]
+mpl_stoneage = "DqCxZNXbsiU9NN7RBTMLZ5mu1YJaK33ua44ik7amP2Cf"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/Users/anhnt/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 100000000 tests/**/*.ts"
